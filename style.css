@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: brown;
+    color: azure;
+}
+
+button{
+    border-style: ridge;
+    border-color: azure;
+    border-radius: 5px;
+    background-color: brown;
+    color: azure;
+}
+
+input{
+    margin: 5px;
+}
